@@ -8,5 +8,5 @@
 ---
 
 
-[**Link del sitio web** ✌](https://tubular-sunburst-700b21.netlify.app/#formacion)
+[**Link del sitio web** ✌](https://tubular-sunburst-700b21.netlify.app/)
 ---
